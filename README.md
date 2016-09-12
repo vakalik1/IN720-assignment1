@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Static-Web-Server
 Virtualisation Assignment 1: Containers (static web server)
 =======
@@ -9,3 +10,7 @@ Virtualisation Assignment One
 =======
 # in720-assignment1
 >>>>>>> 44f762559dd65a361009e218fae105121de82437
+=======
+# IN720-assignment1
+Virtualisation Assignment One
+>>>>>>> 035cb35e672d16c06f4fc6a82e9bcab1a32ccec3
